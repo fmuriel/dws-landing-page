@@ -1,6 +1,6 @@
-#Ejercicio Maquetado HTML - POSSIBLE
+**Ejercicio Maquetado HTML - POSSIBLE**
 
-*Enviar un email explicando que podr�as haber hecho de tener más de 3 horas.*
+*Enviar un email explicando que podrías haber hecho de tener más de 3 horas.*
 
 1. Header: me faltó agregar el icon del mundo a la izquierda de Global.
 	1. En "Global", generar una lista desplegable desde dónde seleccionar otros idiomas.
