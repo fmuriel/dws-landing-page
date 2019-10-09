@@ -1,6 +1,4 @@
-**Ejercicio Maquetado HTML - POSSIBLE**
-
-*Enviar un email explicando que podrías haber hecho de tener más de 3 horas.*
+**Ejercicio Maquetado HTML - To do list **
 
 1. Header: 
 	1. Agregar el icono del mundo a la izquierda de Global (está en la carpeta assets/imgs)
